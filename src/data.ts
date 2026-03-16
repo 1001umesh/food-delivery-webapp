@@ -218,7 +218,7 @@ export const menu:MenuItem[]=[
     price: "Rs 999",
     description:
       "Juicy pork chop served with mashed potatoes and sautéed seasonal vegetables",
-    image: "/temp/main1.png"
+    image: "/temp/menu1.webp"
   },
 
   {
@@ -228,7 +228,7 @@ export const menu:MenuItem[]=[
     price: "Rs 500",
     description:
       "Two slices of toast with melted cheese, sunny side up eggs, and a side of fresh fruits",
-    image: "/temp/breakfast2.png"
+    image: "/temp/menu2.png"
   },
   {
     id: 3,
@@ -237,7 +237,7 @@ export const menu:MenuItem[]=[
     price: "Rs 450",
     description:
       "A luxurious mushroom cream soup featuring wild and cultivated mushrooms, extra virgin olive oil, and fresh parsley",
-    image: "/temp/soup1.png"
+    image: "/temp/menu3.png"
   },
   {
     id: 4,
@@ -246,7 +246,7 @@ export const menu:MenuItem[]=[
     price: "Rs 550",
     description:
       "Mixed lettuce tossed with savory Caesar dressing, topped with grilled chicken, crispy bacon, house-made croutons, and Parmesan",
-    image: "/temp/salad1.png"
+    image: "/temp/salad.jpg"
   },
   {
     id: 5,
@@ -255,7 +255,7 @@ export const menu:MenuItem[]=[
     price: "Rs 350",
     description:
       "Tender Mustang potatoes roasted with aromatic Himalayan spices",
-    image: "/temp/starter1.png"
+    image: "/temp/menu5.png"
   },
  
   {
@@ -265,7 +265,7 @@ export const menu:MenuItem[]=[
     price: "Rs 499",
     description:
       "Golden-brown chicken patty topped with creamy coleslaw and melted cheese. Served with fries and gherkins",
-    image: "/temp/burger1.png"
+    image: "/temp/offerProduct.png"
   },
   {
     id: 7,
@@ -274,7 +274,7 @@ export const menu:MenuItem[]=[
     price: "Rs 699",
     description:
       "Classic pizza topped with fresh tomato sauce, mozzarella, and basil leaves",
-    image: "/temp/pizza1.png"
+    image: "/temp/menu6.png"
   },
   {
     id: 8,
@@ -291,7 +291,7 @@ export const menu:MenuItem[]=[
     name: "Chocolate Brownie à la Mode",
     price: "Rs 399",
     description: "Warm chocolate brownie served with vanilla ice cream",
-    image: "/temp/dessert1.png"
+    image: "/temp/menu8.png"
   },
 
 ]
